@@ -1,7 +1,7 @@
 // Nama         : Christian Joshua Nathanael Nadeak
 // NIM          : 24060121140120
 // Tanggal      : 13 Maret 2022
-// Nama Program : CekHari.c
+// Nama Program : CekBulan.c
 /* Deskripsi    : Menampilkan nama bulan untuk inputan nomor 1 - 12 dan menampilkan inputan salah jika selain rentang 1 -12*/
 
 #include <stdio.h>
