@@ -1,7 +1,7 @@
 /* Nama Program : Tetris.c
-Deskripsi    : menampilkan susunan karakter asterisk
-Pembuat      : Christian Joshua Nathanael Nadeak - 24060121140120
-Tanggal      : 3 April 2022*/
+Deskripsi       : menampilkan susunan karakter asterisk
+Pembuat         : Christian Joshua Nathanael Nadeak - 24060121140120
+Tanggal         : 3 April 2022*/
 
 #include <stdio.h>
 #include <stdlib.h>
