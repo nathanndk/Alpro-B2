@@ -1,7 +1,7 @@
-// Nama Program : Tetris2.c
-/* Deskripsi    : menampilkan susunan karakter asterisk */
-// Pembuat      : Axelliano Rafael Situmeang - 24060121130089
-// Tanggal      : 28 Maret 2022 -  12.12
+/* Nama Program : Tetris.c
+Deskripsi    : menampilkan susunan karakter asterisk
+Pembuat      : Christian Joshua Nathanael Nadeak - 24060121140120
+Tanggal      : 3 April 2022*/
 
 #include <stdio.h>
 #include <stdlib.h>
